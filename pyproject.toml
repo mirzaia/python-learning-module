@@ -1,0 +1,7 @@
+[project]
+name = "python-learning-module"
+version = "0.1.0"
+description = "Self-guided Python learning path for AI/backend engineers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

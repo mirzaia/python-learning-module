@@ -1,0 +1,9 @@
+id,customer,total,status
+ORD-001,Acme Corp,150.00,shipped
+ORD-002,Globex,89.50,pending
+ORD-003,Acme Corp,230.00,shipped
+ORD-004,Initech,45.00,cancelled
+ORD-005,Globex,175.00,shipped
+ORD-006,Umbrella,320.00,pending
+ORD-007,Acme Corp,95.00,shipped
+ORD-008,Initech,210.00,cancelled

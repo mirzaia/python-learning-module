@@ -1,0 +1,10 @@
+[
+    {"id": "ORD-001", "customer": "Acme Corp", "total": 150.00, "status": "shipped"},
+    {"id": "ORD-002", "customer": "Globex", "total": 89.50, "status": "pending"},
+    {"id": "ORD-003", "customer": "Acme Corp", "total": 230.00, "status": "shipped"},
+    {"id": "ORD-004", "customer": "Initech", "total": 45.00, "status": "cancelled"},
+    {"id": "ORD-005", "customer": "Globex", "total": 175.00, "status": "shipped"},
+    {"id": "ORD-006", "customer": "Umbrella", "total": 320.00, "status": "pending"},
+    {"id": "ORD-007", "customer": "Acme Corp", "total": 95.00, "status": "shipped"},
+    {"id": "ORD-008", "customer": "Initech", "total": 210.00, "status": "cancelled"}
+]
